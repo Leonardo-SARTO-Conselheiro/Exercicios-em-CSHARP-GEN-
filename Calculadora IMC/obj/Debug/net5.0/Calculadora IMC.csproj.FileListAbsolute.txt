@@ -1,0 +1,16 @@
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Calculadora IMC\bin\Debug\net5.0\Calculadora IMC.exe
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Calculadora IMC\bin\Debug\net5.0\Calculadora IMC.deps.json
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Calculadora IMC\bin\Debug\net5.0\Calculadora IMC.runtimeconfig.json
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Calculadora IMC\bin\Debug\net5.0\Calculadora IMC.runtimeconfig.dev.json
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Calculadora IMC\bin\Debug\net5.0\Calculadora IMC.dll
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Calculadora IMC\bin\Debug\net5.0\Calculadora IMC.pdb
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Calculadora IMC\obj\Debug\net5.0\Calculadora IMC.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Calculadora IMC\obj\Debug\net5.0\Calculadora IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Calculadora IMC\obj\Debug\net5.0\Calculadora IMC.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Calculadora IMC\obj\Debug\net5.0\Calculadora IMC.AssemblyInfo.cs
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Calculadora IMC\obj\Debug\net5.0\Calculadora IMC.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Calculadora IMC\obj\Debug\net5.0\Calculadora IMC.dll
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Calculadora IMC\obj\Debug\net5.0\refint\Calculadora IMC.dll
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Calculadora IMC\obj\Debug\net5.0\Calculadora IMC.pdb
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Calculadora IMC\obj\Debug\net5.0\Calculadora IMC.genruntimeconfig.cache
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Calculadora IMC\obj\Debug\net5.0\ref\Calculadora IMC.dll
