@@ -1,0 +1,16 @@
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Hello World\bin\Debug\net5.0\Hello World GEN C#.exe
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Hello World\bin\Debug\net5.0\Hello World GEN C#.deps.json
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Hello World\bin\Debug\net5.0\Hello World GEN C#.runtimeconfig.json
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Hello World\bin\Debug\net5.0\Hello World GEN C#.runtimeconfig.dev.json
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Hello World\bin\Debug\net5.0\Hello World GEN C#.dll
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Hello World\bin\Debug\net5.0\Hello World GEN C#.pdb
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Hello World\obj\Debug\net5.0\Hello World GEN C#.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Hello World\obj\Debug\net5.0\Hello World GEN C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Hello World\obj\Debug\net5.0\Hello World GEN C#.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Hello World\obj\Debug\net5.0\Hello World GEN C#.AssemblyInfo.cs
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Hello World\obj\Debug\net5.0\Hello World GEN C#.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Hello World\obj\Debug\net5.0\Hello World GEN C#.dll
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Hello World\obj\Debug\net5.0\refint\Hello World GEN C#.dll
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Hello World\obj\Debug\net5.0\Hello World GEN C#.pdb
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Hello World\obj\Debug\net5.0\Hello World GEN C#.genruntimeconfig.cache
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\Hello World\obj\Debug\net5.0\ref\Hello World GEN C#.dll

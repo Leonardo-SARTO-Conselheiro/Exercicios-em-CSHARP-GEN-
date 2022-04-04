@@ -1,0 +1,16 @@
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\bin\Debug\net5.0\Exercicios GEN C#.exe
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\bin\Debug\net5.0\Exercicios GEN C#.deps.json
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\bin\Debug\net5.0\Exercicios GEN C#.runtimeconfig.json
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\bin\Debug\net5.0\Exercicios GEN C#.runtimeconfig.dev.json
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\bin\Debug\net5.0\Exercicios GEN C#.dll
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\bin\Debug\net5.0\Exercicios GEN C#.pdb
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\obj\Debug\net5.0\Exercicios GEN C#.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\obj\Debug\net5.0\Exercicios GEN C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\obj\Debug\net5.0\Exercicios GEN C#.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\obj\Debug\net5.0\Exercicios GEN C#.AssemblyInfo.cs
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\obj\Debug\net5.0\Exercicios GEN C#.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\obj\Debug\net5.0\Exercicios GEN C#.dll
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\obj\Debug\net5.0\refint\Exercicios GEN C#.dll
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\obj\Debug\net5.0\Exercicios GEN C#.pdb
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\obj\Debug\net5.0\Exercicios GEN C#.genruntimeconfig.cache
+C:\Users\Meu Computador\Desktop\GEN\Exercicios GEN C#\obj\Debug\net5.0\ref\Exercicios GEN C#.dll
