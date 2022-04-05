@@ -30,7 +30,7 @@ namespace Calculadora_IMC
             Console.WriteLine("Seu IMC é: " + imc);
 
             if(imc < 18.5){
-                Console.WriteLine("Você está abaixado do peso");
+                Console.WriteLine("Você está abaixa do do peso");
             }
             
             else if(imc < 25){
