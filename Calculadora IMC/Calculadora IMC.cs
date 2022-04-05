@@ -28,6 +28,26 @@ namespace Calculadora_IMC
             //WriteLine para printar a tela (saida de dados)
             imc = peso / (altura * altura);
             Console.WriteLine("Seu IMC é: " + imc);
+
+            if(imc < 18.5){
+                Console.WriteLine("Você está abaixado do peso");
+            }
+            
+            else if(imc < 25){
+                Console.WriteLine("Você está com o peso normal");
+            }
+
+             else if(imc < 30){
+                Console.WriteLine("Você está com sobrepeso");
+            }
+
+            else{
+                Console.WriteLine("Voce está acima do peso");
+            }
+
+
+
+
         }
     }
 }
