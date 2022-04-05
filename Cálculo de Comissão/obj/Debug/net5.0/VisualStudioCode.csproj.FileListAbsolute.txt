@@ -1,0 +1,16 @@
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudioCode\bin\Debug\net5.0\VisualStudioCode.exe
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudioCode\bin\Debug\net5.0\VisualStudioCode.deps.json
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudioCode\bin\Debug\net5.0\VisualStudioCode.runtimeconfig.json
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudioCode\bin\Debug\net5.0\VisualStudioCode.runtimeconfig.dev.json
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudioCode\bin\Debug\net5.0\VisualStudioCode.dll
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudioCode\bin\Debug\net5.0\VisualStudioCode.pdb
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudioCode\obj\Debug\net5.0\VisualStudioCode.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudioCode\obj\Debug\net5.0\VisualStudioCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudioCode\obj\Debug\net5.0\VisualStudioCode.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudioCode\obj\Debug\net5.0\VisualStudioCode.AssemblyInfo.cs
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudioCode\obj\Debug\net5.0\VisualStudioCode.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudioCode\obj\Debug\net5.0\VisualStudioCode.dll
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudioCode\obj\Debug\net5.0\refint\VisualStudioCode.dll
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudioCode\obj\Debug\net5.0\VisualStudioCode.pdb
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudioCode\obj\Debug\net5.0\VisualStudioCode.genruntimeconfig.cache
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudioCode\obj\Debug\net5.0\ref\VisualStudioCode.dll

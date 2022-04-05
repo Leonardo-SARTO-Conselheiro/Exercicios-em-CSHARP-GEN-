@@ -1,0 +1,64 @@
+C:\Users\Meu Computador\Desktop\GEN\teste\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.exe
+C:\Users\Meu Computador\Desktop\GEN\teste\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.deps.json
+C:\Users\Meu Computador\Desktop\GEN\teste\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.runtimeconfig.json
+C:\Users\Meu Computador\Desktop\GEN\teste\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.runtimeconfig.dev.json
+C:\Users\Meu Computador\Desktop\GEN\teste\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.dll
+C:\Users\Meu Computador\Desktop\GEN\teste\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.pdb
+C:\Users\Meu Computador\Desktop\GEN\teste\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\GEN\teste\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Desktop\GEN\teste\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Desktop\GEN\teste\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.AssemblyInfo.cs
+C:\Users\Meu Computador\Desktop\GEN\teste\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\GEN\teste\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.dll
+C:\Users\Meu Computador\Desktop\GEN\teste\Aula05VS\Aula05VS\obj\Debug\net5.0\refint\Aula05VS.dll
+C:\Users\Meu Computador\Desktop\GEN\teste\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.pdb
+C:\Users\Meu Computador\Desktop\GEN\teste\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.genruntimeconfig.cache
+C:\Users\Meu Computador\Desktop\GEN\teste\Aula05VS\Aula05VS\obj\Debug\net5.0\ref\Aula05VS.dll
+C:\Users\Meu Computador\Desktop\GEN\Aulas Codando\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.exe
+C:\Users\Meu Computador\Desktop\GEN\Aulas Codando\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.deps.json
+C:\Users\Meu Computador\Desktop\GEN\Aulas Codando\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.runtimeconfig.json
+C:\Users\Meu Computador\Desktop\GEN\Aulas Codando\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.runtimeconfig.dev.json
+C:\Users\Meu Computador\Desktop\GEN\Aulas Codando\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.dll
+C:\Users\Meu Computador\Desktop\GEN\Aulas Codando\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.pdb
+C:\Users\Meu Computador\Desktop\GEN\Aulas Codando\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\GEN\Aulas Codando\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Desktop\GEN\Aulas Codando\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Desktop\GEN\Aulas Codando\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.AssemblyInfo.cs
+C:\Users\Meu Computador\Desktop\GEN\Aulas Codando\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\GEN\Aulas Codando\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.dll
+C:\Users\Meu Computador\Desktop\GEN\Aulas Codando\Aula05VS\Aula05VS\obj\Debug\net5.0\refint\Aula05VS.dll
+C:\Users\Meu Computador\Desktop\GEN\Aulas Codando\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.pdb
+C:\Users\Meu Computador\Desktop\GEN\Aulas Codando\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.genruntimeconfig.cache
+C:\Users\Meu Computador\Desktop\GEN\Aulas Codando\Aula05VS\Aula05VS\obj\Debug\net5.0\ref\Aula05VS.dll
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.exe
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.deps.json
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.runtimeconfig.json
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.runtimeconfig.dev.json
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.dll
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\Aula05VS\Aula05VS\bin\Debug\net5.0\Aula05VS.pdb
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.AssemblyInfo.cs
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.dll
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\Aula05VS\Aula05VS\obj\Debug\net5.0\refint\Aula05VS.dll
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.pdb
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\Aula05VS\Aula05VS\obj\Debug\net5.0\Aula05VS.genruntimeconfig.cache
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\Aula05VS\Aula05VS\obj\Debug\net5.0\ref\Aula05VS.dll
+C:\Users\Meu Computador\Desktop\gen\aulaspraticas\visualstudio\aula05vs\aula05vs\bin\Debug\net5.0\Aula05VS.exe
+C:\Users\Meu Computador\Desktop\gen\aulaspraticas\visualstudio\aula05vs\aula05vs\bin\Debug\net5.0\Aula05VS.deps.json
+C:\Users\Meu Computador\Desktop\gen\aulaspraticas\visualstudio\aula05vs\aula05vs\bin\Debug\net5.0\Aula05VS.runtimeconfig.json
+C:\Users\Meu Computador\Desktop\gen\aulaspraticas\visualstudio\aula05vs\aula05vs\bin\Debug\net5.0\Aula05VS.runtimeconfig.dev.json
+C:\Users\Meu Computador\Desktop\gen\aulaspraticas\visualstudio\aula05vs\aula05vs\bin\Debug\net5.0\Aula05VS.dll
+C:\Users\Meu Computador\Desktop\gen\aulaspraticas\visualstudio\aula05vs\aula05vs\bin\Debug\net5.0\Aula05VS.pdb
+C:\Users\Meu Computador\Desktop\gen\aulaspraticas\visualstudio\aula05vs\aula05vs\obj\Debug\net5.0\Aula05VS.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\gen\aulaspraticas\visualstudio\aula05vs\aula05vs\obj\Debug\net5.0\Aula05VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Desktop\gen\aulaspraticas\visualstudio\aula05vs\aula05vs\obj\Debug\net5.0\Aula05VS.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Desktop\gen\aulaspraticas\visualstudio\aula05vs\aula05vs\obj\Debug\net5.0\Aula05VS.AssemblyInfo.cs
+C:\Users\Meu Computador\Desktop\gen\aulaspraticas\visualstudio\aula05vs\aula05vs\obj\Debug\net5.0\Aula05VS.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\gen\aulaspraticas\visualstudio\aula05vs\aula05vs\obj\Debug\net5.0\Aula05VS.dll
+C:\Users\Meu Computador\Desktop\gen\aulaspraticas\visualstudio\aula05vs\aula05vs\obj\Debug\net5.0\refint\Aula05VS.dll
+C:\Users\Meu Computador\Desktop\gen\aulaspraticas\visualstudio\aula05vs\aula05vs\obj\Debug\net5.0\Aula05VS.pdb
+C:\Users\Meu Computador\Desktop\gen\aulaspraticas\visualstudio\aula05vs\aula05vs\obj\Debug\net5.0\Aula05VS.genruntimeconfig.cache
+C:\Users\Meu Computador\Desktop\gen\aulaspraticas\visualstudio\aula05vs\aula05vs\obj\Debug\net5.0\ref\Aula05VS.dll
