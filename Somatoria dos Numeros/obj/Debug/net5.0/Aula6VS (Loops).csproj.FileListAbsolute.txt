@@ -1,0 +1,16 @@
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudio\Aula6VS (Loops)\Aula6VS (Loops)\bin\Debug\net5.0\Aula6VS (Loops).exe
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudio\Aula6VS (Loops)\Aula6VS (Loops)\bin\Debug\net5.0\Aula6VS (Loops).deps.json
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudio\Aula6VS (Loops)\Aula6VS (Loops)\bin\Debug\net5.0\Aula6VS (Loops).runtimeconfig.json
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudio\Aula6VS (Loops)\Aula6VS (Loops)\bin\Debug\net5.0\Aula6VS (Loops).runtimeconfig.dev.json
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudio\Aula6VS (Loops)\Aula6VS (Loops)\bin\Debug\net5.0\Aula6VS (Loops).dll
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudio\Aula6VS (Loops)\Aula6VS (Loops)\bin\Debug\net5.0\Aula6VS (Loops).pdb
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudio\Aula6VS (Loops)\Aula6VS (Loops)\obj\Debug\net5.0\Aula6VS (Loops).csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudio\Aula6VS (Loops)\Aula6VS (Loops)\obj\Debug\net5.0\Aula6VS (Loops).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudio\Aula6VS (Loops)\Aula6VS (Loops)\obj\Debug\net5.0\Aula6VS (Loops).AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudio\Aula6VS (Loops)\Aula6VS (Loops)\obj\Debug\net5.0\Aula6VS (Loops).AssemblyInfo.cs
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudio\Aula6VS (Loops)\Aula6VS (Loops)\obj\Debug\net5.0\Aula6VS (Loops).csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudio\Aula6VS (Loops)\Aula6VS (Loops)\obj\Debug\net5.0\Aula6VS (Loops).dll
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudio\Aula6VS (Loops)\Aula6VS (Loops)\obj\Debug\net5.0\refint\Aula6VS (Loops).dll
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudio\Aula6VS (Loops)\Aula6VS (Loops)\obj\Debug\net5.0\Aula6VS (Loops).pdb
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudio\Aula6VS (Loops)\Aula6VS (Loops)\obj\Debug\net5.0\Aula6VS (Loops).genruntimeconfig.cache
+C:\Users\Meu Computador\Desktop\GEN\AulasPraticas\VisualStudio\Aula6VS (Loops)\Aula6VS (Loops)\obj\Debug\net5.0\ref\Aula6VS (Loops).dll
