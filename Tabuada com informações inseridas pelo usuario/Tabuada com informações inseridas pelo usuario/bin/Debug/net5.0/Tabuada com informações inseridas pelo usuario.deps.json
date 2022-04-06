@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tabuada com informações inseridas pelo usuario/1.0.0": {
+        "runtime": {
+          "Tabuada com informações inseridas pelo usuario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tabuada com informações inseridas pelo usuario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
