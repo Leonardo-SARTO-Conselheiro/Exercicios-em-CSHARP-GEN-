@@ -1,0 +1,16 @@
+C:\Users\Meu Computador\Desktop\testepoo\bin\Debug\net5.0\testepoo.exe
+C:\Users\Meu Computador\Desktop\testepoo\bin\Debug\net5.0\testepoo.deps.json
+C:\Users\Meu Computador\Desktop\testepoo\bin\Debug\net5.0\testepoo.runtimeconfig.json
+C:\Users\Meu Computador\Desktop\testepoo\bin\Debug\net5.0\testepoo.runtimeconfig.dev.json
+C:\Users\Meu Computador\Desktop\testepoo\bin\Debug\net5.0\testepoo.dll
+C:\Users\Meu Computador\Desktop\testepoo\bin\Debug\net5.0\testepoo.pdb
+C:\Users\Meu Computador\Desktop\testepoo\obj\Debug\net5.0\testepoo.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\testepoo\obj\Debug\net5.0\testepoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Desktop\testepoo\obj\Debug\net5.0\testepoo.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Desktop\testepoo\obj\Debug\net5.0\testepoo.AssemblyInfo.cs
+C:\Users\Meu Computador\Desktop\testepoo\obj\Debug\net5.0\testepoo.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\testepoo\obj\Debug\net5.0\testepoo.dll
+C:\Users\Meu Computador\Desktop\testepoo\obj\Debug\net5.0\refint\testepoo.dll
+C:\Users\Meu Computador\Desktop\testepoo\obj\Debug\net5.0\testepoo.pdb
+C:\Users\Meu Computador\Desktop\testepoo\obj\Debug\net5.0\testepoo.genruntimeconfig.cache
+C:\Users\Meu Computador\Desktop\testepoo\obj\Debug\net5.0\ref\testepoo.dll
