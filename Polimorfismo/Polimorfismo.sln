@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoologico", "Zoologico\Zoologico.csproj", "{ECBFC43A-2C37-4E7B-9D35-4872B52E1E02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometria", "Geometria\Geometria.csproj", "{FF69120D-7B7F-4F58-AF56-AAB28137053B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo", "Calculo\Calculo.csproj", "{47F27C87-8FF6-411B-A3F4-593124657D91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{ECBFC43A-2C37-4E7B-9D35-4872B52E1E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECBFC43A-2C37-4E7B-9D35-4872B52E1E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECBFC43A-2C37-4E7B-9D35-4872B52E1E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF69120D-7B7F-4F58-AF56-AAB28137053B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF69120D-7B7F-4F58-AF56-AAB28137053B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF69120D-7B7F-4F58-AF56-AAB28137053B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF69120D-7B7F-4F58-AF56-AAB28137053B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F27C87-8FF6-411B-A3F4-593124657D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F27C87-8FF6-411B-A3F4-593124657D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F27C87-8FF6-411B-A3F4-593124657D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F27C87-8FF6-411B-A3F4-593124657D91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
